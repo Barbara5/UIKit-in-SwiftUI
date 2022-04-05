@@ -1,6 +1,6 @@
 # UIKit in SwiftUI
 > This is a simple project that shows how UIKit can be integrated into SwiftUI.  
-> You can find my full article about the integration of both frameworks [_here_](https://www.example.com).
+> You can find my full article about the integration of both frameworks [here](https://medium.com/@barbarabeatrice95/swiftui-or-uikit-did-you-mean-swiftuikit-6eeb115c5e59).
 
 ## Table of Contents
 * [General Info](#general-information)
