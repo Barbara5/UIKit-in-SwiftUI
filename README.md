@@ -53,13 +53,6 @@ let request = URLRequest(url: url)
 webView.load(request)
 ```
 
-First of all, you need to create a new SwiftUIView that needs to conform to the UIViewRepresentable protocol, which allows you to integrate a UIView in a SwiftUI interface. In order to work, it requires three main elements: the typealias (the kind of view we are creating), the make method and the update method. The first one is called only once and creates the view, while the second one updates it.
-In this case the type of view we want to create is a WKWebView.
-We also add the two methods and a constant to enclose the web view.
-Then we need to create the view through the makeUIView() method: we just need to return the view from the function.
-Instead for the updateUIView() we need to load the url that we'll assign to it in our view.
-Now just call this view in any SwiftUIView to get access to your web content.
-
 ## Usage
 In order to use this view, you just have to import the file in your project and then call it where you need it. 
 Now you just have to pass the url of your desired web page as parameter.
