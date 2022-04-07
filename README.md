@@ -2,6 +2,9 @@
 > This is a simple project that shows how UIKit can be integrated into SwiftUI.  
 > You can find my full article about the integration of both frameworks [here](https://medium.com/@barbarabeatrice95/swiftui-or-uikit-did-you-mean-swiftuikit-6eeb115c5e59).
 
+![giffu](https://user-images.githubusercontent.com/61754424/162214822-807f86f1-5fde-4ded-9256-39b7ac1e2bec.gif)
+
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -14,7 +17,8 @@ I started this project in order to understand how SwiftUI and UIKit can be integ
 In this case, I decided to use a WKWebView, which is part of the WebKit framework and is used to incorporate web content into an app.
 This is actually just one of two projects that I worked on, you can find the "SwiftUI in UIKit" part [here](https://github.com/BarbaraBeatrice/SwiftUI-in-UIKit).
 
-## Technologies Used
+## Technologies Used![image](https://user-images.githubusercontent.com/61754424/162214864-cfdc88b8-8f54-4f0e-98b4-85264873b804.gif)
+
 - macOS - 12.1
 - Xcode - 13.3
 
